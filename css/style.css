@@ -31,3 +31,19 @@ text-decoration: none;
 padding: 10px 20px;
 display: inline-block;
 }
+
+aside {
+    position: fixed;
+    right: 0;
+    background-color: red;
+    height: 100%;
+    width: 20%;
+    list-style-type: none;
+    padding: 15px 0;
+}
+
+aside ul{
+    margin: 0;
+    padding: 0;
+}
+
