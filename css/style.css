@@ -47,3 +47,11 @@ aside ul{
     padding: 0;
 }
 
+aside ul li a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+}
+
+  
