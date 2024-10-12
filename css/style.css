@@ -7,13 +7,19 @@
     float: left;
 }
 
-#navbar-container{
+.navbar-container{
 
     float: left;
     width: 100%;
     position: relative;
 }
+.nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 
+}
 body {
     margin: 0;
     padding: 0;
