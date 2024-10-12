@@ -32,7 +32,7 @@ padding: 10px 20px;
 display: inline-block;
 }
 
-aside {
+#aside {
     position: fixed;
     right: 0;
     background-color: red;
@@ -42,12 +42,12 @@ aside {
     padding: 15px 0;
 }
 
-aside ul{
+#aside ul{
     margin: 0;
     padding: 0;
 }
 
-aside ul li a {
+#aside ul li a {
     color: #fff;
     text-decoration: none;
     display: block;
