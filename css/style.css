@@ -1,4 +1,9 @@
-.navbar-container{
+.main-navbar{
     list-style-type: none;
-    background-color: #000  
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    left: 30%;
+    float: left;
+
 }
