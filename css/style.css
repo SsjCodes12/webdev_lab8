@@ -1,12 +1,3 @@
-.main-navbar {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    position: fixed;
-    left: 30%;
-    float: left;
-}
-
 .navbar-container{
 
     float: left;
@@ -15,11 +6,10 @@
 }
 .nav ul{
     list-style-type: none;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-
+    margin: 0px;
+    padding: 0px;
 }
+
 body {
     margin: 0;
     padding: 0;
@@ -29,4 +19,11 @@ body {
 main {
     margin-right: 30%;
     padding: 30px;
+}
+
+.navbar a{
+color: #fff;
+text-decoration: none;
+padding: 10px 20px;
+display: inline-block;
 }
