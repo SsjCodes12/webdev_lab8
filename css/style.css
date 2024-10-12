@@ -30,7 +30,7 @@
 color: #fff;
 text-decoration: none;
 padding: 10px 20px;
-display: inline-block;
+display: block;
 }
 
 #main-navbar ul li a:hover {
