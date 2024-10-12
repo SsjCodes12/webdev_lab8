@@ -4,11 +4,6 @@
     width: 100%;
     position: relative;
 }
-.nav ul{
-    list-style-type: none;
-    margin: 0px;
-    padding: 0px;
-}
 
 body {
     margin: 0;
@@ -16,12 +11,16 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-main {
-    margin-right: 30%;
-    padding: 30px;
+.main-navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 50%;
+    float: left;
 }
 
-.nav ul li a{
+.main-navbar ul li a{
 color: #fff;
 text-decoration: none;
 padding: 10px 20px;
