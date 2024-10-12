@@ -41,7 +41,7 @@ display: block;
     text-decoration: underline overline;
 }
 
-#aside {
+#sidebar {
     position: fixed;
     right: 0;
     background-color: red;
@@ -49,20 +49,20 @@ display: block;
     width: 20%;
 }
 
-#aside ul{
+#sidebar ul{
     list-style-type: none;
     text-align: center;
     padding: 0;
 }
 
-#aside ul li a {
+#sidebar ul li a {
     color: #fff;
     text-decoration: none;
     display: block;
     padding: 10px 0;
 }
 
-#aside ul li a:hover {
+#sidebar ul li a:hover {
 background-color: #000;
 }
 
