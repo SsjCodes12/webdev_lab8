@@ -21,7 +21,7 @@ main {
     padding: 30px;
 }
 
-.navbar a{
+.navbar ul li a{
 color: #fff;
 text-decoration: none;
 padding: 10px 20px;
